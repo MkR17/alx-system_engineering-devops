@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R111 /tmp/h
